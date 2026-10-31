@@ -1,0 +1,7 @@
+# FedGRA dependencies (Python >= 3.9, tested with 3.10)
+# GPU: install the CUDA build of torch/torchvision from https://pytorch.org first.
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.23.0
+scipy>=1.9.0
+scikit-learn>=1.1.0
